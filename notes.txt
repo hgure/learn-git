@@ -8,4 +8,9 @@ git branch - see what branch you are on
 git checkout -b  <descriptive name> - create new branch
 git check <branch name> - switch between branches
 git diff - shows what changes have been madea
-
+git pull - pull down changes made in a different branch
+git branch -d <branch name> - to delete branch (they are not reused)
+git reset HEAD~1- undo last staged changes
+git log - get list of commits in chronological order
+git reset <hash found in git log> - to go back to a point in time and unstage changes after
+git reset --hard <hash> - to erase everything and revert back without keeping them as staged
