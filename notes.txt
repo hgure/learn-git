@@ -1,0 +1,11 @@
+Git Branching
+
+Master Branching
+
+Create Feature Branch
+
+git branch - see what branch you are on 
+git checkout -b  <descriptive name> - create new branch
+git check <branch name> - switch between branches
+git diff - shows what changes have been madea
+
